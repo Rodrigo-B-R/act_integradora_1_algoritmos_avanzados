@@ -1,15 +1,18 @@
 Gen M
 Longitud: 11
-Índice: 493
+Índice inicio: 493
+Índice fin: 503
 Palíndromo: CTAAAGAAATC
 
 Gen S
 Longitud: 15
-Índice: 2386
+Índice inicio: 2386
+Índice fin: 2400
 Palíndromo: ATTTTGGTGGTTTTA
 
 Gen ORF1AB
 Longitud: 20
-Índice: 9711
+Índice inicio: 9711
+Índice fin: 9730
 Palíndromo: CTCAATGACTTCAGTAACTC
 
